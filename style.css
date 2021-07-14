@@ -151,6 +151,8 @@ nav div a{
     display: flex;
     font-size: 30px;
     font-weight: bold;
+    padding: 5px;
+    gap: 10px;
 }
 .news a{
     text-decoration: none;
@@ -161,6 +163,7 @@ nav div a{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     padding: 10px;
+    grid-row-gap: 30px;
 }
 
 footer img{
@@ -220,7 +223,7 @@ footer img{
         padding: 20px 0;
     }
     #match{
-        padding-left: 2px;
+        padding-left: 0;
         padding-top: 0;
         text-align: justify;
         margin-top: 20px;
