@@ -66,9 +66,7 @@ nav div a{
     font-weight: 400;
 }
 /* main part start*/
-main{
-    background-color: whitesmoke;
-}
+
 .player img{
     width: 100%;
     height: 100%;
@@ -113,4 +111,18 @@ main{
    padding-right: 156px;
    width: 567px;
     height: 427px;
+}
+.end{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 158px 480px 63px 475px;
+    
+}
+footer img{
+    width: 70%;
+}
+.fab{
+    width: 2em;
 }
