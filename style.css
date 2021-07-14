@@ -63,6 +63,9 @@ nav div a{
     color: white;
     font-size: 16px;
 }
+#log{
+    padding-left: 10px;
+}
 .link:hover{
     background-image: linear-gradient(rgb(45, 172, 172),rgb(120, 212, 77));
 }
